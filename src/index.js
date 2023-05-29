@@ -125,7 +125,7 @@ function handleInfiniteScroll() {
   }
 }
 
-//GO TO TOP BUTTON
+// /GO TO TOP BUTTON
 let mybutton = document.getElementById('myBtn');
 window.onscroll = function () {
   scrollFunction();
